@@ -1,0 +1,14 @@
+﻿ccxt
+google-auth-oauthlib
+gspread
+matplotlib
+numpy
+oauth2client
+pandas
+plotly
+requests
+scikit-learn
+scipy
+seaborn
+tqdm
+web3
